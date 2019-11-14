@@ -2,7 +2,7 @@
 // @name                Krunker.io Skid
 // @namespace           https://github.com/skidlamer
 // @author              SkidLamer
-// @version             1.8.8
+// @version             1.8.9
 // @description         A cheat for krunker.io
 // @downloadURL         https://skidlamer.github.io/js/krunker_skid.user.js
 // @supportURL          https://github.com/skidlamer/skidlamer.github.io
